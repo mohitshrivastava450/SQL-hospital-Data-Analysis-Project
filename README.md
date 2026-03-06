@@ -233,11 +233,11 @@ Hospital-Dashboard-Project
 ├── Dataset
 │
 ├── SQL
-│   ├── create_views.sql
-│   └── analysis_queries.sql
+│   ├── hospital Data Analysis Queries.sql
+│   └── Views.sql
 │
-├── PowerBI
-│   └── Hospital_Dashboard.pbix
+├── Powerbi file
+│   └── Hospital DA.pbix
 │
 └── README.md
 ```
